@@ -1,3 +1,5 @@
 sudo mount -o remount,size=2G /tmp
 sudo vi /etc/fstab
-sudo vi /ect/fstab
+```
+tmpfs /tmp tmpfs defaults, size=5G 0 0
+```
