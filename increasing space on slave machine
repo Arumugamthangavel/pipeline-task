@@ -1,4 +1,3 @@
 sudo mount -o remount,size=2G /tmp
-sudo vi /ect/fstab
-cd ect
 sudo vi /etc/fstab
+sudo vi /ect/fstab
